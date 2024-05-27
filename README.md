@@ -1,3 +1,3 @@
 I code in PHP, Python and Moonscript (Lua)
 
-[main repo](https://codeberg.org/asciibene)
+[main git can be found on codeberg](https://codeberg.org/asciibene)
